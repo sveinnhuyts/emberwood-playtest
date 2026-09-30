@@ -1,5 +1,5 @@
-# Emberwood 0.2
+# Emberwood 0.3
 
-Download the game from [Emberwood 0.2](https://github.com/sveinnhuyts/emberwood-playtest/releases/tag/v0.2).
+Download the game from [Emberwood 0.3](https://github.com/sveinnhuyts/emberwood-playtest/releases/tag/v0.3).
 
-- [Windows download](https://github.com/sveinnhuyts/emberwood-playtest/releases/download/v0.2/Emberwood0.2.exe)
+- [Windows download](https://github.com/sveinnhuyts/emberwood-playtest/releases/download/v0.3/Emberwood0.3.exe)
